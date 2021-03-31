@@ -1,3 +1,64 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+## Basic Configuration
+
+baseurl = "https://zanglang.github.io/"
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Jerry Chong"
+title = "Jerry Chong"
+
+theme = "goa"
+
+## Hugo Built-in Features
+#disqusShortname = "https-zanglang-github-io"
+#googleAnalytics = "XYZ"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Jerry Chong"
+intro = "DevOps Engineer"
+description = "Quintessential geek, caffeine addict, and avid technology enthusiast."
+authorimage = "kiatsu.jpg"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "Jerry Chong's profile"
+
+## Social Accounts
+[params.social]
+github = "zanglang"
+linkedin = "zanglang"
+twitter = "zanglang"
+reddit = "zanglang"
+keybase = "zanglang"
+telegram = "zanglang"
+email = "jerry@libcoffee.com"
+pgp = "<key_fingerprint>"
+
+## Extras
+[params.extra]
+#copyright = "© 2021. Jerry Chong. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+poweredby = false
+highlightjs = false
+socialmarkup = true
+toc = true
+displayrssicon = false
+
+## Main Menu
+[[menu.main]]
+    name = "archives"
+    weight = 100
+    identifier = "blog"
+    url = "https://www.libcoffee.net"
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
