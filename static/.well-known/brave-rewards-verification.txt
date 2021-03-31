@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: zanglang.github.io
+Token: 9d9c4d0dbce4b4c5b8bcd97ed14ede1edd36e0fc2de84f5e0cd1dc60a8454a6f
