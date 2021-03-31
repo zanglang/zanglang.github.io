@@ -1,7 +1,7 @@
 ## Basic Configuration
 
-baseurl = "https://zanglang.github.io/"
-builddrafts = false
+baseurl = "https://www.jerrychong.com"
+builddrafts = true
 canonifyurls = false
 languageCode = "en-US"
 
@@ -22,7 +22,7 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Jerry Chong"
-intro = "DevOps Engineer @ NetbaseQuid"
+intro = "DevOps Engineer @ NetbaseQuid, Taipei"
 description = "Quintessential geek, caffeine addict, and avid technology enthusiast."
 authorimage = "me.jpg"
 dateformat = "Jan 2, 2006"
