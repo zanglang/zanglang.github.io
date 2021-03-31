@@ -49,13 +49,13 @@ toc = false
 displayrssicon = false
 
 ## Main Menu
-[[menu.main]]
-    name = "archives"
-    weight = 100
-    identifier = "blog"
-    url = "https://www.libcoffee.net"
-[[menu.main]]
-    name = "about"
-    identifier = "about"
-    weight = 200
-    url = "/about/"
+#[[menu.main]]
+#    name = "archives"
+#    weight = 100
+#    identifier = "blog"
+#    url = "https://www.libcoffee.net"
+#[[menu.main]]
+#    name = "about"
+#    identifier = "about"
+#    weight = 200
+#    url = "/about/"
