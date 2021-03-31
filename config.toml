@@ -22,8 +22,8 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Jerry Chong"
-intro = "DevOps Engineer @ Netbase Quid."
-description = "Quintessential geek, caffeine addict, and avid technology enthusiast."
+intro = "DevOps Engineer @ Netbase Quid, Taipei"
+description = "Quintessential geek,<br/>caffeine addict, and<br/>avid technology enthusiast."
 authorimage = "me.jpg"
 dateformat = "Jan 2, 2006"
 
