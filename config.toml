@@ -22,8 +22,8 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Jerry Chong"
-intro = "DevOps Engineer @ Netbase Quid, Taipei"
-description = "Quintessential geek,<br/>caffeine addict, and<br/>avid technology enthusiast."
+intro = "DevOps Engineer @ NetbaseQuid"
+description = "Quintessential geek, caffeine addict, and avid technology enthusiast."
 authorimage = "me.jpg"
 dateformat = "Jan 2, 2006"
 
@@ -41,11 +41,11 @@ pgp = "8FEFAA9142CE1531069FA9C9654899A548A41038"
 
 ## Extras
 [params.extra]
-#copyright = "© 2021. Jerry Chong. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+copyright = "[Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
 poweredby = true
 highlightjs = false
 socialmarkup = true
-toc = true
+toc = false
 displayrssicon = false
 
 ## Main Menu
