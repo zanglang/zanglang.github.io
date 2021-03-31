@@ -22,9 +22,9 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Jerry Chong"
-intro = "DevOps Engineer"
+intro = "DevOps Engineer @ Netbase Quid."
 description = "Quintessential geek, caffeine addict, and avid technology enthusiast."
-authorimage = "kiatsu.jpg"
+authorimage = "me.jpg"
 dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
@@ -34,18 +34,15 @@ description = "Jerry Chong's profile"
 ## Social Accounts
 [params.social]
 github = "zanglang"
-linkedin = "zanglang"
-twitter = "zanglang"
-reddit = "zanglang"
+linkedin = "chongzhewei"
 keybase = "zanglang"
-telegram = "zanglang"
 email = "jerry@libcoffee.com"
-pgp = "<key_fingerprint>"
+pgp = "8FEFAA9142CE1531069FA9C9654899A548A41038"
 
 ## Extras
 [params.extra]
 #copyright = "© 2021. Jerry Chong. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
-poweredby = false
+poweredby = true
 highlightjs = false
 socialmarkup = true
 toc = true
