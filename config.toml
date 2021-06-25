@@ -16,7 +16,7 @@ theme = "goa"
 
 ## Hugo Built-in Features
 #disqusShortname = "https-zanglang-github-io"
-#googleAnalytics = "XYZ"
+googleAnalytics = "G-L08PSNYVSF"
 enableRobotsTXT = true
 
 ## Site Settings
