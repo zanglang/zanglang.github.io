@@ -35,8 +35,10 @@ description = "Jerry Chong's profile"
 [params.social]
 github = "zanglang"
 linkedin = "chongzhewei"
+twitter = "zanglang"
+telegram = "zanglang"
 keybase = "zanglang"
-email = "jerry@libcoffee.com"
+email = "zanglang@gmail.com"
 pgp = "8FEFAA9142CE1531069FA9C9654899A548A41038"
 
 ## Extras
