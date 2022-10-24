@@ -4,6 +4,8 @@
 **/hugo_stats.json
 
 ### Cloudflare Wranger ###
+.env
 dist/
+node_modules/
 workers-site/
 wrangler.toml

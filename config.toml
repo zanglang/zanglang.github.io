@@ -22,8 +22,8 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Jerry Chong"
-intro = "DevOps Engineer @ NetbaseQuid, Taipei"
-description = "Quintessential geek, caffeine addict, and avid technology enthusiast."
+intro = "Staff DevOps Engineer @ NetbaseQuid, Taipei."
+description = "Quintessential geek dad, chronic tinkerer & blockchain hobbyist"
 authorimage = "me.jpg"
 dateformat = "Jan 2, 2006"
 
@@ -43,7 +43,7 @@ pgp = "8FEFAA9142CE1531069FA9C9654899A548A41038"
 
 ## Extras
 [params.extra]
-copyright = "[Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+copyright = "[CC0 No Rights Reserved](http://creativecommons.org/publicdomain/zero/1.0/)."
 poweredby = true
 highlightjs = false
 socialmarkup = true
