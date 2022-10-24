@@ -2,3 +2,8 @@
 **/public/
 **/resources/_gen/
 **/hugo_stats.json
+
+### Cloudflare Wranger ###
+dist/
+workers-site/
+wrangler.toml
